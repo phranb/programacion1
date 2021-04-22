@@ -85,6 +85,6 @@ Algoritmo calculadora
 		Fin Segun
 		
 		
-	Hasta Que seleccion == "x" O seleccion == "X"
+	Hasta Que seleccion == "x"
 	
 FinAlgoritmo
